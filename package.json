@@ -1,0 +1,14 @@
+{
+  "name": "p2p_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
